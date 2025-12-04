@@ -35,33 +35,45 @@ I enjoy building real-world applications, contributing to open-source communitie
 
 ## Tech Stack & Tools
 
-#### Languages
+### 🔹 Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql" />
 </div>
 
-#### Frontend Development
+---
+
+### 🔹 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,reactjs,bootstrap,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,html,css" />
 </div>
 
-#### Backend Development
+---
+
+### 🔹 Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flask,express,nodejs,flask,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase" />
 </div>
 
-#### Databases
+---
+
+### 🔹 Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <br><br>
   <img src="https://img.shields.io/badge/Mongoose-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 </div>
 
-#### Tools
+---
+
+### 🔹 Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,intellij,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <br><br>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 </div>
+
 
 ---
 
