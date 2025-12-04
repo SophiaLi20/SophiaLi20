@@ -7,6 +7,7 @@
 ## Summary
 I’m Unnati Bhardwaj, a Computer Science student at Galgotias University and a Full-Stack Developer with growing experience in machine learning and open-source development.
 I have been part of:
+
 Amazon ML Summer School ’25 – completed intensive training in ML, deep learning, and generative AI.
 
 SIH ’25 Pre-Qualifier – worked on AgriVision, an AI-powered solution for crop recommendation & disease detection.
