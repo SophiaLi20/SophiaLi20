@@ -15,6 +15,7 @@ SIH ’25 Pre-Qualifier – worked on AgriVision, an AI-powered solution for cro
 GSSoC ’25 Contributor – contributed to open-source projects through the GirlScript Summer of Code.
 
 I enjoy building real-world applications, contributing to open-source communities, and solving problems through clean and efficient development.
+
 ---
 
 ### Connect with me:
