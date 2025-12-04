@@ -42,12 +42,12 @@ I enjoy building real-world applications, contributing to open-source communitie
 
 #### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,reactjs,bootstrap,tailwind,html,css" />
 </div>
 
 #### Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flask,express,nodejs,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=flask,express,nodejs,flask,firebase" />
 </div>
 
 #### Databases
@@ -60,7 +60,7 @@ I enjoy building real-world applications, contributing to open-source communitie
 
 #### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,intellij,pytorch" />
 </div>
 
 ---
