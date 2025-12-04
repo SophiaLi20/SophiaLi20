@@ -5,8 +5,13 @@
 </div>
 
 ## Summary
-Computer Science student and aspiring Software Engineer passionate about building efficient solutions. Currently focused on mastering Data Structures & Algorithms while developing full-stack applications.
+I’m Unnati Bhardwaj, a Computer Science student at Galgotias University and a Full-Stack Developer with growing experience in machine learning and open-source development.
+I have been part of:
+Amazon ML Summer School ’25 – completed intensive training in ML, deep learning, and generative AI
+SIH ’25 Pre-Qualifier – worked on AgriVision, an AI-powered solution for crop recommendation & disease detection
+GSSoC ’25 Contributor – contributed to open-source projects through the GirlScript Summer of Code
 
+I enjoy building real-world applications, contributing to open-source communities, and solving problems through clean and efficient development.
 ---
 
 ### Connect with me:
